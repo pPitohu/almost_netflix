@@ -549,9 +549,6 @@ main {
     margin-left: -5px;
 }
 
-.modal__description {
-    max-height: 400px;
-}
 
 .modal__description section {
     margin-top: 15px;
